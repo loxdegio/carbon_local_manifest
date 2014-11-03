@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Local projects -->
-    <project path="hardware/atheros/wlan" name="TheWhisp/android_hardware_atheros_wlan" revision="cm-11.0" />
+    <project path="hardware/atheros/wlan" name="loxdegio/android_hardware_atheros_wlan" revision="cm-11.0" />
     <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy" revision="cm-11.0" />
     <project path="hardware/qcom/media-legacy" name="legaCyMod/android_hardware_qcom_media-legacy" revision="cm-11.0" />
 
